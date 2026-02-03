@@ -30,3 +30,6 @@ It is interesting to me to see that the drivers for this shift (developer happin
 And it's implied in these articles that "strictness" in a language often leads to greater freedom and velocity in the long run.
 
 > [Why Tech Giants Are Going for RUST](https://www.youtube.com/watch?v=DvY1-993OBE): This video also provides excellent context on why major tech companies are aggressively adopting Rust, reinforcing the trends seen in both the Python tooling landscape and Meta's infrastructure.
+
+Comment by Tianlang Qin
+when I first started learning python, I found it very annoying to forget which types the variables were after a while. It's good to know that even most senior engineers who use python regularily uses type hints (80%). It proves that no matter how good you are, you can't really just figure it out when there is a large codebase. 
